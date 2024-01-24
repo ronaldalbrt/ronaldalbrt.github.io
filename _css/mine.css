@@ -1,0 +1,13 @@
+.im-50 {text-align: center;}
+.im-50 img {
+    padding: 0;
+    width: 30%;
+    border-radius: 50%;
+}
+
+.projects {
+    display: block;
+    background-color: purple;
+    padding: 0.5em;
+    margin-bottom: 1em;
+  }
