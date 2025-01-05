@@ -9,36 +9,7 @@ tags = ["syntax", "code"]
 
 ~~~
 <h2>
-    High School
+  Conference Publications
 </h2>
 ~~~
 
-During high school, I am very thankful for having studied at [NAVE Rio](https://oifuturo.org.br/programas/nave/). There I got interested in the development of digital games, here are some of then (in case they still work)
-
-~~~
-<table>
-  <tr>
-    <td><div class="projects">
-    <img src="/assets/images/maloom_logo.png" >
-    </img>
-    </div></td>
-    <td><div class="projects">
-    Cell 2
-    </div></td>
-    <td><div class="projects">
-    Cell 3
-    </div></td>
-  </tr>
-  <tr>
-    <td><div class="projects">
-    Cell 4
-    </div></td>
-    <td><div class="projects">
-    Cell 5
-    </div></td>
-    <td><div class="projects">
-    Cell 6
-    </div></td>
-  </tr>
-</table>
-~~~

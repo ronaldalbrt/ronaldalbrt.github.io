@@ -15,8 +15,7 @@ MSc student in Artificial Intelligence at the [Systems Engineering and Computer 
 <h2>Research Interests</h2>
 ~~~
 
-* [Theoretical Machine Learning](/tag/ml/)
-* [Operations Research](/tag/opt/)
+* [Neural Algorithmic Reasoning](/tag/nar/)
 * [Graph Deep Learning](/tag/ml/)
 * [Deep Learning for Remote Sensing](/tag/ml/)
 

@@ -5,7 +5,7 @@ rss = "A short description of the page which would serve as **blurb** in a `RSS`
 rss_title = "More goodies"
 rss_pubdate = Date(2019, 5, 1)
 
-tags = ["syntax", "code", "image", "opt"]
+tags = ["nar", "code", "image", "opt"]
 +++
 
 # More goodies
