@@ -19,7 +19,7 @@ ignore = ["node_modules/"]
 generate_rss = true
 website_title = "Ronald Albert"
 website_descr = "Ronald Albert's personal website"
-website_url   = "https://tlienart.github.io/FranklinTemplates.jl/"
+website_url   = "https://ronaldalbrt.github.io/"
 +++
 
 <!--
