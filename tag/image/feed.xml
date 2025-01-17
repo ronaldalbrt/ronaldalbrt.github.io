@@ -9,14 +9,14 @@
 
   <channel>
     <title>
-      <![CDATA[  Ronald Albert  ]]>
+      <![CDATA[  Franklin Template  ]]>
     </title>
-    <link> https://ronaldalbrt.github.io/ </link>
+    <link> https://tlienart.github.io/FranklinTemplates.jl/ </link>
     <description>
-      <![CDATA[  Ronald Albert&#39;s personal website  ]]>
+      <![CDATA[  Example website using Franklin  ]]>
     </description>
     <atom:link
-      href="https://ronaldalbrt.github.io/feed.xml"
+      href="https://tlienart.github.io/FranklinTemplates.jl/feed.xml"
       rel="self"
       type="application/rss+xml" />
 
@@ -35,7 +35,7 @@
   
   
   <atom:author>
-    <atom:name>Ronald Albert</atom:name>
+    <atom:name>Septimia Zenobia</atom:name>
   </atom:author>
         
 </item>
