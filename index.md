@@ -6,6 +6,9 @@
 @@
 
 ~~~
+<script src="https://kit.fontawesome.com/f8aceda8eb.js" crossorigin="anonymous"></script>
+~~~
+~~~
 <h1>Ronald Albert</h1>
 ~~~
 
@@ -26,3 +29,13 @@ MSc student in Artificial Intelligence at the [Systems Engineering and Computer 
 * ~~~
 <i class="fa fa-envelope"></i>
 ~~~ [ronaldalbrt@cos.ufrj.br ](mailto:ronaldalbrt@cos.ufrj.br)
+
+* ~~~
+<i class="fa fa-linkedin-square" style="font-size:24px"></i>
+<a href="https://www.linkedin.com/in/ronald-albert-07a70a130/">Linkedin</a>
+~~~
+
+* ~~~
+<i class="fa-brands fa-google-scholar" style="font-size:24px"></i>
+<a href="https://scholar.google.com/citations?user=zwse-acAAAAJ&hl=pt-BR">Google Scholar</a>
+~~~ 
