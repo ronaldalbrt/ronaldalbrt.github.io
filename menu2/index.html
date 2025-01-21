@@ -46,7 +46,6 @@ b = a+<span class=hljs-number >1</span></code></pre> <p>you can specify the defa
 <p>A nice example of what you can do is in the <a href="https://juliasymbolics.github.io/SymbolicUtils.jl/api/">SymbolicUtils.jl manual</a> where they use a <code>hfun_</code> to generate HTML encapsulating the content of code docstrings, in a way doing something similar to what Documenter does. See <a href="https://github.com/JuliaSymbolics/SymbolicUtils.jl/blob/website/utils.jl">how they defined it</a>.</p>
 <p><strong>Note</strong>: the  output <strong>will not</strong> be reprocessed by Franklin, if you want to generate markdown which should be processed by Franklin, then use <code>return fd2html&#40;markdown, internal&#61;true&#41;</code> at the end.</p>
 <h3 id=custom_lx ><a href="#custom_lx" class=header-anchor >Custom &quot;lx&quot;</a></h3>
-<p>These commands will look the same as latex commands but what they do with their content is now entirely controlled by your code. You can use this to do your own parsing of specific chunks of your content if you so desire.</p>
 <p>The definition of <code>lx_*</code> commands <strong>must</strong> look like this:</p>
 <pre><code class="julia hljs"><span class=hljs-keyword >function</span> lx_baz(com, _)
   <span class=hljs-comment ># keep this first line</span>
