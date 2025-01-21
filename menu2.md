@@ -110,8 +110,6 @@ A nice example of what you can do is in the [SymbolicUtils.jl manual](https://ju
 
 ### Custom "lx"
 
-These commands will look the same as latex commands but what they do with their content is now entirely controlled by your code.
-You can use this to do your own parsing of specific chunks of your content if you so desire.
 
 The definition of `lx_*` commands **must** look like this:
 
