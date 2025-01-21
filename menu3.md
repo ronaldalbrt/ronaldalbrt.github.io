@@ -94,12 +94,3 @@ function hfun_custom_taglist()::String
     return String(take!(c))
 end
 ```
-
-For instance the default uses:
-
-```html
-<!-- 1, 3: simple list-->
-<ul>...</ul>
-<!-- 2: simple list item plugging in path + title -->
-<li><a href="/$rpath/">$title</a></li>
-```
