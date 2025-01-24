@@ -22,7 +22,7 @@ Add the list of projects contained in the `/projects/` folder.
 """
 function hfun_projects()
   io = IOBuffer()
-  subfolders = ["conference_full_papers", "journals", "workshops", "posters", "others"]
+  subfolders = ["journals", "conference_full_papers", "workshops", "posters", "others"]
 
   folder_to_title = Dict(
     "conference_full_papers" => "Conference Full Papers",
@@ -33,6 +33,9 @@ function hfun_projects()
   )
   
   for folder in subfolders
+    pj_folder = joinpath("projects", folder)
+    isdir(pj_folder) || continue
+    
     years = readdir("projects/$folder")
     for year in years
       ys = "$year"
@@ -53,12 +56,14 @@ function hfun_projects()
 
         title = pagevar(surl, :title)
         pubdate = pagevar(surl, :published)
+        img = pagevar(surl, :img)
+        journal = pagevar(surl, :journal)
         rawdate = Date(pubdate, dateformat"d U Y")
         days[i] = day(rawdate)
         
         date = Dates.format(rawdate, "U d, YYYY")
       
-        lines[i] = "\n[$title]($url)\n$date\n"
+        lines[i] = "\n@@im![]($img)@@\n[$title]($url)\n**$journal**\n$date\n"
       end
         
         # sort by day
