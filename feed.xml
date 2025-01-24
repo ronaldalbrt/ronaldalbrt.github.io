@@ -23,15 +23,15 @@
 
 <item>
   <title>
-    <![CDATA[  Projects  ]]>
+    <![CDATA[  Learnable Matched Filter for Methane Plume Segmentation in Hyperspectral Imagery  ]]>
   </title>
-  <link> https://ronaldalbrt.github.io/projects/index.html </link>
-  <guid> https://ronaldalbrt.github.io/projects/index.html </guid>
+  <link> https://ronaldalbrt.github.io/projects/journals/2025/lmf/index.html </link>
+  <guid> https://ronaldalbrt.github.io/projects/journals/2025/lmf/index.html </guid>
   <description>
-    <![CDATA[  A short description of the page which would serve as <strong>blurb</strong> in a <code>RSS</code> feed; you can use basic markdown here but the whole description string must be a single line &#40;not a multiline string&#41;. Like this one for instance. Keep in mind that styling is minimal in RSS so for instance don&#39;t expect maths or fancy styling to work; images should be ok though: <img src="https://upload.wikimedia.org/wikipedia/en/3/32/Rick_and_Morty_opening_credits.jpeg" alt="" />  ]]>
+    <![CDATA[  Methane emissions are a major contributor to global warming, making the detection and monitoring of anthropogenic methane sources, such as oil and gas operations and landfills, a critical task. Remote sensing using hyperspectral sensors has proven to be a valuable tool for this purpose. However, traditional methane detection algorithms based on matched filters often produce spurious results and require laborious post-processing to accurately identify actual plumes. In this paper, we propose a novel approach for estimating the target signature of a matched filter as a learnable layer integrated into a user-selected segmentation model, trainable in an end-to-end manner. By considering the signature as a parameter of the segmentation model, our methodology enables the signature to adapt both to the task and the user-selected segmentation approach. We use hyperspectral images from the EMIT instrument and their associated publicly available methane plumes to train deep learning segmentation models. Our results show consistent improvements in both convolutional neural networks &#40;CNNs&#41; and transformer architectures, as demonstrated by the F1 segmentation score increasing by approximately 18&#37; compared to the baseline values. This allows for more accurate and automated plume segmentation, ultimately aiding in the identification of methane leaks from point source emitters.  ]]>
   </description>  
     
-  <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>  
+  <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>  
   
   
   <atom:author>
