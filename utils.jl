@@ -63,7 +63,7 @@ function hfun_projects()
         
         date = Dates.format(rawdate, "U d, YYYY")
       
-        lines[i] = "\n@@im![]($img)@@\n[$title]($url)\n**$journal**\n$date\n"
+        lines[i] = "\n@@im![]($img)@@\n[$title]($url)\n**$journal**\n$date.\n"
       end
         
         # sort by day
@@ -76,5 +76,6 @@ function hfun_projects()
   r = "<div class=bloglist>\n" * 
       Franklin.fd2html(String(take!(io)), internal=true) * 
       "\n</div>\n"
+
   return r
 end
