@@ -1,4 +1,4 @@
-# Leveraging hyperspectral remote sensing and foundation models for greenhouse monitoring
+# [Leveraging hyperspectral remote sensing and foundation models for greenhouse monitoring](https://openreview.net/forum?id=6UyOxjXWID)
 
 @def title = "Leveraging hyperspectral remote sensing and foundation models for greenhouse monitoring"
 @def authors = "Alberto Costa Nogueira Jr, Devyani Lambhate, João Lucas de Sousa Almeida, Levente Klein, Maciel Zortea, Ranjini Bangalore, Ronald Albert de Araujo, Thomas Brunschwiler"

@@ -1,4 +1,4 @@
-# Learnable Matched Filter for Methane Plume Segmentation in Hyperspectral Imagery
+# [Learnable Matched Filter for Methane Plume Segmentation in Hyperspectral Imagery](https://ieeexplore.ieee.org/abstract/document/10835132/)
 
 @def title = "Learnable Matched Filter for Methane Plume Segmentation in Hyperspectral Imagery"
 @def authors = "Ronald Albert, Maciel Zortea"
