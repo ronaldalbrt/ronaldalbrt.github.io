@@ -1,7 +1,7 @@
 +++
-title = "Menu 3"
+title = "CV"
 
-tags = ["syntax", "code", "ml", "opt"]
+tags = ["cv"]
 +++
 
 # Curriculum Vitae
