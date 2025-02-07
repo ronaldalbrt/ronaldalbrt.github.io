@@ -8,7 +8,7 @@ abstract = "Methane emissions are a major contributor to global warming, making 
 rss = "Learnable Matched Filter for Methane Plume Segmentation in Hyperspectral Imagery"
 rss_pubdate = Date(2025, 1, 9)
 doi = "10.1109/LGRS.2025.3527871"
-tags = ["DL_remote_sensing"]
+tags = ["dL_remote_sensing"]
 +++
 # [Learnable Matched Filter for Methane Plume Segmentation in Hyperspectral Imagery](https://ieeexplore.ieee.org/abstract/document/10835132/)
 
