@@ -20,7 +20,7 @@ MSc student in Artificial Intelligence at the [Systems Engineering and Computer 
 
 * [Neural Algorithmic Reasoning](/tag/nar/)
 * [Graph Deep Learning](/tag/ml/)
-* [Deep Learning for Remote Sensing](/tag/dL_remote_sensing/)
+* [Deep Learning for Remote Sensing](/tag/dl_remote_sensing/)
 
 ~~~
 <h2>Contact</h2>
