@@ -23,7 +23,7 @@ MSc student in Artificial Intelligence at the [Systems Engineering and Computer 
 * [Deep Learning for Remote Sensing](/tag/dl_remote_sensing/)
 
 ~~~
-<h2>Contact</h2>
+<h2>You can reach me at</h2>
 ~~~
 
 * ~~~
@@ -38,4 +38,9 @@ MSc student in Artificial Intelligence at the [Systems Engineering and Computer 
 * ~~~
 <i class="fa-brands fa-google-scholar" style="font-size:24px"></i>
 <a href="https://scholar.google.com/citations?user=zwse-acAAAAJ&hl=pt-BR">Google Scholar</a>
-~~~ 
+~~~
+
+* ~~~
+<i class="fa-brands fa-github" style="font-size:24px"></i>
+<a href="https://github.com/ronaldalbrt">Github</a>
+~~~
