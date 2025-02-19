@@ -23,7 +23,7 @@ MSc student in Artificial Intelligence at the [Systems Engineering and Computer 
 * [Deep Learning for Remote Sensing](/tag/dl_remote_sensing/)
 
 ~~~
-<h2>You can reach me at</h2>
+<h2>Contact</h2>
 ~~~
 
 * ~~~
