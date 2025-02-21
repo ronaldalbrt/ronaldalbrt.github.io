@@ -73,7 +73,7 @@ function hfun_projects()
 
   # markdown conversion adds `<p>` beginning and end but
   # we want to  avoid this to avoid an empty separator
-  r = "<div class=bloglist>\n" * 
+  r = "<div class=projectslist>\n" * 
       Franklin.fd2html(String(take!(io)), internal=true) * 
       "\n</div>\n"
 
@@ -97,9 +97,8 @@ function hfun_blog()
   
   for folder in subfolders
     pj_folder = joinpath("blog", folder)
-    isdir(pj_folder) || continue
     
-    base = readdir("blog/$folder")
+    base = joinpath("blog", folder)
     isdir(base) || continue
 
     posts = filter!(p -> endswith(p, ".md"), readdir(base))
@@ -121,7 +120,7 @@ function hfun_blog()
       
       date = Dates.format(rawdate, "U d, YYYY")
     
-      lines[i] = "[$title]($url)\n$date.\n"
+      lines[i] = "[$title]($url)\n $date.\n"
     end
 
     # sort by day
