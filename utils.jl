@@ -88,10 +88,9 @@ Add the list of blog posts contained in the `/blog/` folder.
 """
 function hfun_blog()
   io = IOBuffer()
-  subfolders = ["soon"]
+  subfolders = ["posts"]
 
   folder_to_title = Dict(
-    "soon" => "Soon",
     "posts" => "Posts"
   )
   
