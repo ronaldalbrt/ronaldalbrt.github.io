@@ -4,7 +4,7 @@ hascode = true
 rss_title = "Blog"
 rss_pubdate = Date(2019, 5, 1)
 
-tags = ["nar", "code", "image", "opt", "blog"]
+tags = ["blog"]
 +++
 
 # Blog

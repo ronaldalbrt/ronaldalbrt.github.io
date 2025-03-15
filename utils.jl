@@ -22,11 +22,12 @@ Add the list of projects contained in the `/projects/` folder.
 """
 function hfun_projects()
   io = IOBuffer()
-  subfolders = ["journals", "conference_full_papers", "workshops", "posters", "others"]
+  subfolders = ["journals", "working_papers", "conference_full_papers", "workshops", "posters", "others"]
 
   folder_to_title = Dict(
     "conference_full_papers" => "Conference Full Papers",
     "journals" => "Journal Publications",
+    "working_papers" => "Working Papers",
     "workshops" => "Workshops",
     "posters" => "Conference Posters",
     "others" => "Others"
