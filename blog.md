@@ -11,4 +11,8 @@ tags = ["blog"]
 
 This is my blog. I write about my research, projects, and stuff in general that interests me. 
 
+~~~
+<h2>Posts</h2>
+~~~
+
 {{ blog }}

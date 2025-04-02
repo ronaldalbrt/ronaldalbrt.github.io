@@ -96,15 +96,12 @@ function hfun_blog()
   )
   
   for folder in subfolders
-    pj_folder = joinpath("blog", folder)
-    
     base = joinpath("blog", folder)
     isdir(base) || continue
 
     posts = filter!(p -> endswith(p, ".md"), readdir(base))
     isempty(posts) && continue
 
-    write(io, "\n**$(folder_to_title[folder])**\n")
     days  = zeros(Int, length(posts))
     lines = Vector{String}(undef, length(posts))
 
