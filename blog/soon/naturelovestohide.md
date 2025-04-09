@@ -9,3 +9,8 @@ tags = ["blog"]
 # Nature loves to hide
 
 {{ published }}
+
+~~~
+<h2>Φύσις κρύπτεσθαι φιλεῖ</h2>
+~~~
+It was during a philosophy class along my freshmen year in high school, I got acquainted with this sentece for the first time. Our philosophy teacher; [Daniel Gaivota](https://www.researchgate.net/profile/Daniel-Contage)
