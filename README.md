@@ -1,4 +1,4 @@
-# Personal Website
+# Ronald's Personal Website
 
 This is my personal academic website built with [Franklin.jl](https://franklinjl.org/), a static site generator written in Julia.
 
