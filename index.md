@@ -32,7 +32,7 @@ MSc student in Artificial Intelligence at the [Systems Engineering and Computer 
 
 * ~~~
 <i class="fa fa-linkedin-square" style="font-size:24px"></i>
-<a href="www.linkedin.com/in/ronaldalbrt">Linkedin</a>
+<a href="https://linkedin.com/in/ronaldalbrt">Linkedin</a>
 ~~~
 
 * ~~~
