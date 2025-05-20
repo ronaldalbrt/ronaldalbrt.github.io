@@ -21,6 +21,13 @@ See the [GitHub repository](https://github.com/ronaldalbrt/algo_reasoning)
 
 {{ abstract }}
 
+# This was published as my Masters Dissertation
+
+~~~
+<iframe src="/assets/pdf/SpectralMPNN.pdf" width="700" height="980">
+~~~
+
+
 {{ isdef doi }}
 **DOI: {{doi}}**
 {{ end }}
