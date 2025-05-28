@@ -12,7 +12,7 @@
 <h1>Ronald Albert</h1>
 ~~~
 
-MSc student in Artificial Intelligence at the [Systems Engineering and Computer Science Program - PESC](https://www.cos.ufrj.br/index.php/en/) from the [Federal University of Rio de Janeiro](https://ufrj.br/en/) and Research Intern at [IBM Research Brazil](https://www.research.ibm.com/labs/brazil/).
+MSc student in Artificial Intelligence at the [Systems Engineering and Computer Science Program - PESC](https://www.cos.ufrj.br/index.php/en/) from the [Federal University of Rio de Janeiro](https://ufrj.br/en/) and Research Engineer at [Avra](https://avra.com.br/).
 
 ~~~
 <h2>Research Interests</h2>
