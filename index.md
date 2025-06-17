@@ -20,7 +20,7 @@
 ~~~
 
 * [Neural Algorithmic Reasoning](/tag/nar/)
-* [Graph Deep Learning](/tag/ml/)
+* [Foundation Models for Graphs](/tag/ml/)
 * [Deep Learning for Remote Sensing](/tag/dl_remote_sensing/)
 
 ~~~
