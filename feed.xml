@@ -23,15 +23,15 @@
 
 <item>
   <title>
-    <![CDATA[  Feature extraction for methane plume segmentation using hyperspectral images  ]]>
+    <![CDATA[  SpectralMPNN: Spectral Graph Architectures for Neural Algorithmic Reasoning  ]]>
   </title>
-  <link> https://ronaldalbrt.github.io/projects/conference_presentations/2025/ci2025/index.html </link>
-  <guid> https://ronaldalbrt.github.io/projects/conference_presentations/2025/ci2025/index.html </guid>
+  <link> https://ronaldalbrt.github.io/projects/working_papers/2025/spectralnar/index.html </link>
+  <guid> https://ronaldalbrt.github.io/projects/working_papers/2025/spectralnar/index.html </guid>
   <description>
-    <![CDATA[  Learnable Matched Filter for Methane Plume Segmentation in Hyperspectral Imagery  ]]>
+    <![CDATA[  SpectralMPNN: Spectral Graph Architectures for Neural Algorithmic Reasoning  ]]>
   </description>  
     
-  <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>  
+  <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>  
   
   
   <atom:author>
@@ -42,15 +42,15 @@
 
 <item>
   <title>
-    <![CDATA[  SpectralMPNN: Spectral Graph Architectures for Neural Algorithmic Reasoning  ]]>
+    <![CDATA[  Feature extraction for methane plume segmentation using hyperspectral images  ]]>
   </title>
-  <link> https://ronaldalbrt.github.io/projects/working_papers/2025/spectralnar/index.html </link>
-  <guid> https://ronaldalbrt.github.io/projects/working_papers/2025/spectralnar/index.html </guid>
+  <link> https://ronaldalbrt.github.io/projects/conference_presentations/2025/ci2025/index.html </link>
+  <guid> https://ronaldalbrt.github.io/projects/conference_presentations/2025/ci2025/index.html </guid>
   <description>
-    <![CDATA[  SpectralMPNN: Spectral Graph Architectures for Neural Algorithmic Reasoning  ]]>
+    <![CDATA[  Learnable Matched Filter for Methane Plume Segmentation in Hyperspectral Imagery  ]]>
   </description>  
     
-  <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>  
+  <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>  
   
   
   <atom:author>
