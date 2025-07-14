@@ -29,7 +29,7 @@
 
 * ~~~
 <i class="fa fa-envelope"></i>
-~~~ [ronaldalbrt@cos.ufrj.br ](mailto:ronaldalbrt@cos.ufrj.br)
+~~~ [ronald.albert@avra.com.br](mailto:ronald.albert@avra.com.br)
 
 * ~~~
 <i class="fa fa-linkedin-square" style="font-size:24px"></i>
