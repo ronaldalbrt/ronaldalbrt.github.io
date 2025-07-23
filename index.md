@@ -19,8 +19,8 @@
 <h2>Research Interests</h2>
 ~~~
 
-* [Neural Algorithmic Reasoning](/tag/nar/)
 * [Foundation Models for Graphs](/tag/ml/)
+* [Neural Algorithmic Reasoning](/tag/nar/)
 * [Deep Learning for Remote Sensing](/tag/dl_remote_sensing/)
 
 ~~~
