@@ -13,7 +13,11 @@
 ~~~
 * Research Engineer at [Avra](https://avra.com.br/), working with Foundations Models for graphs.
 
+
 * MSc in Artificial Intelligence from the [Systems Engineering and Computer Science Program - PESC](https://www.cos.ufrj.br/index.php/en/) from the [Federal University of Rio de Janeiro](https://ufrj.br/en/), oriented by Prof. [Gerson Zaverucha](https://www.cos.ufrj.br/~gerson/) and Prof. [Aline Paes](http://www2.ic.uff.br/~alinepaes/). 
+
+
+* Previously, a Research Intern at [IBM Research Brazil](https://research.ibm.com/labs/brazil) working under the Temporal Geospatial Modelling Group.
 
 ~~~
 <h2>Research Interests</h2>
