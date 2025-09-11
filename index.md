@@ -33,7 +33,7 @@
 
 * ~~~
 <i class="fa fa-envelope"></i>
-~~~ [ronald.albert@avra.com.br](mailto:ronald.albert@avra.com.br)
+~~~ [ronald.albert@avra.ai](mailto:ronald.albert@avra.ai)
 
 * ~~~
 <i class="fa fa-linkedin-square" style="font-size:24px"></i>
