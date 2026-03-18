@@ -13,4 +13,5 @@ tags = ["blog"]
 ~~~
 <h2>Φύσις κρύπτεσθαι φιλεῖ</h2>
 ~~~
-It was during a philosophy class along my freshmen year in high school, I got acquainted with this sentece for the first time. Our philosophy teacher; [Daniel Gaivota](https://www.researchgate.net/profile/Daniel-Contage)
+It was during a philosophy class in my freshman year of high school that I first heard the sentence above. Our teacher, [Daniel Gaivota](https://www.researchgate.net/profile/Daniel-Contage), wrote it on the whiteboard and left the room. I'm not entirely sure what the lesson was meant to accomplish, but the sentence has stayed with me ever since.
+

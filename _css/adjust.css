@@ -81,7 +81,15 @@
     width: 100px;
     text-align: right;
   }
-  .franklin-content { width: 600px; }
+  .franklin-content { width: 800px; }
+}
+
+@media (min-width: 1200px) {
+  .franklin-content { width: 980px; }
+}
+
+@media (min-width: 1400px) {
+  .franklin-content { width: 1150px; }
 }
 
 /* Smaller nav only on the Presentation Letter page */
@@ -107,5 +115,5 @@
 }
 
 @media (min-width: 1000px) {
-  .franklin-content { width: 660px; }
+  .franklin-content { width: 860px; }
 }
