@@ -80,25 +80,6 @@
 
 <item>
   <title>
-    <![CDATA[  Shallow Learning Theory  ]]>
-  </title>
-  <link> https://ronaldalbrt.github.io/blog/posts/shallow/index.html </link>
-  <guid> https://ronaldalbrt.github.io/blog/posts/shallow/index.html </guid>
-  <description>
-    <![CDATA[  Shallow Learning Theory  ]]>
-  </description>  
-    
-  <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>  
-  
-  
-  <atom:author>
-    <atom:name>Ronald Albert</atom:name>
-  </atom:author>
-        
-</item>
-
-<item>
-  <title>
     <![CDATA[  Nature loves to hide  ]]>
   </title>
   <link> https://ronaldalbrt.github.io/blog/soon/naturelovestohide/index.html </link>
@@ -124,6 +105,25 @@
   <guid> https://ronaldalbrt.github.io/blog/soon/generative_conn/index.html </guid>
   <description>
     <![CDATA[  The Generative Connection  ]]>
+  </description>  
+    
+  <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Ronald Albert</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Shallow Learning Theory  ]]>
+  </title>
+  <link> https://ronaldalbrt.github.io/blog/soon/shallow/index.html </link>
+  <guid> https://ronaldalbrt.github.io/blog/soon/shallow/index.html </guid>
+  <description>
+    <![CDATA[  Shallow Learning Theory  ]]>
   </description>  
     
   <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>  
