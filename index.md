@@ -11,7 +11,7 @@
 ~~~
 <h1>Ronald Albert</h1>
 ~~~
-* Research Engineer at [Avra](https://avra.ai/), working with Relational Foundation Models
+* Research Scientist at [Avra](https://avra.ai/), working with Relational Foundation Models
 
 
 * MSc in Artificial Intelligence from the [Systems Engineering and Computer Science Program - PESC](https://www.cos.ufrj.br/index.php/en/) from the [Federal University of Rio de Janeiro](https://ufrj.br/en/), oriented by Prof. [Gerson Zaverucha](https://www.cos.ufrj.br/~gerson/) and Prof. [Aline Paes](http://www2.ic.uff.br/~alinepaes/). 
